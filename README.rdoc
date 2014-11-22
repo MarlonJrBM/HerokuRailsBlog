@@ -1,5 +1,5 @@
 
-This is a simple ZMS (Zombie Management System) written in Ruby on Rails.
+This is a simple Microblog written in Ruby on Rails.
 
 Ruby Version: 2.0.0
 
