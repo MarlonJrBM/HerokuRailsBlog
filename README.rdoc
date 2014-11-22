@@ -11,7 +11,7 @@ Steps to run application:
 
 2) Run 'bundle install'
 
-3) Run 'sudo apt-get install nodejs' and 'sudo apt-get install libpq-dev' if you're running locally on Ubuntu
+3) Run 'sudo apt-get install nodejs' and 'sudo apt-get install libpq-dev' if you're running locally on any Linux distro.
 
 4) Run 'rake db:migrate' to fix database migrations
 
