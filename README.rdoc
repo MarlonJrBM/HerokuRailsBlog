@@ -17,6 +17,6 @@ Steps to run application:
 
 4) Run 'rails s'
 
-5) Open localhost:8080 on your favorite browser.
+5) Open localhost:3000 on your favorite browser.
 
 
