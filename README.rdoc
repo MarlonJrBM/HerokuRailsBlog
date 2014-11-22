@@ -1,28 +1,22 @@
-== README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple ZMS (Zombie Management System) written in Ruby on Rails.
 
-Things you may want to cover:
+Ruby Version: 2.0.0
 
-* Ruby version
+Rails Version : 4.0.2
 
-* System dependencies
+Steps to run application:
 
-* Configuration
+1) Go to root folder
 
-* Database creation
+2) Run 'bundle install'
 
-* Database initialization
+3) Run 'sudo apt-get install nodejs' and 'sudo apt-get install libpq-dev' if you're running locally on Ubuntu
 
-* How to run the test suite
+4) Run 'rake db:migrate' to fix database migrations
 
-* Services (job queues, cache servers, search engines, etc.)
+4) Run 'rails s'
 
-* Deployment instructions
-
-* ...
+5) Open localhost:8080 on your favorite browser.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
